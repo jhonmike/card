@@ -11,7 +11,7 @@
   "author": "Jhon Mike <developer@jhonmike.com.br",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhonmike/npx-jhonmike.git"
+    "url": "https://github.com/jhonmike/card-jhonmike.git"
   },
   "license": "MIT",
   "devDependencies": {
