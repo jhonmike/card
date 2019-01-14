@@ -1,0 +1,25 @@
+{
+  "name": "jhonmike",
+  "version": "0.0.1",
+  "description": "",
+  "bin": {
+    "jhonmike": "./bin/card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhon Mike <developer@jhonmike.com.br",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhonmike/npx-jhonmike.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0"
+  }
+}
