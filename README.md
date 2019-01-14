@@ -1,3 +1,3 @@
 ```sh
-npx jhonmike
+npx jhon
 ```
